@@ -1,0 +1,18 @@
+.profile{
+   max-width:200px;
+   border-radius:50%;
+   margin-left:200px
+}
+
+body{
+    text-align:center;
+}
+img{
+    margin:20px; 
+    display:inline;
+    max-width:300px;
+}
+p{
+    font-family:sans-serif, Georgia, 'Times New Roman', Times, serif;
+    font-size:20px;
+}
